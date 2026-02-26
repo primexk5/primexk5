@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @primexk5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m a Full-Stack Software Engineer with a strong focus on building practical, scalable solutions.
+I use AI as a development tool to improve productivity, automate workflows, and enhance system design.
 
-<!---
-primexk5/primexk5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m also deeply involved in blockchain development, working with:
+
+Ethereum (Solidity)
+
+Starknet (Cairo)
+
+I enjoy building secure, efficient applications that combine modern web technologies with decentralized systems.
